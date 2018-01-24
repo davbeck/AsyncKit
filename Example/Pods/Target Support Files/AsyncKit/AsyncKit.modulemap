@@ -1,0 +1,6 @@
+framework module AsyncKit {
+  umbrella header "AsyncKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

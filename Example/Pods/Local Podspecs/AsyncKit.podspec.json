@@ -1,0 +1,22 @@
+{
+  "name": "AsyncKit",
+  "version": "1.0.0",
+  "summary": "Tools to make async code more pleasent in Swift.",
+  "homepage": "https://github.com/davbeck/AsyncKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "davbeck": "code@davidbeck.co"
+  },
+  "source": {
+    "git": "https://github.com/davbeck/AsyncKit.git",
+    "tag": "1.0.0"
+  },
+  "social_media_url": "https://twitter.com/davbeck",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "AsyncKit/**/*"
+}

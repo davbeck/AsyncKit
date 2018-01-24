@@ -1,3 +1,5 @@
+platform :ios, '11.0'
+
 use_frameworks!
 target 'AsyncKit_Tests' do
   pod 'AsyncKit', :path => '../'
