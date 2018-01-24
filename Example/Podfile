@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AsyncKit_Tests' do
+  pod 'AsyncKit', :path => '../'
+  
+  
+end
