@@ -44,34 +44,34 @@
 /* Begin PBXFileReference section */
 		06D06FE4D8E371E619A6711D7AC5A27F /* AsyncKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AsyncKit-prefix.pch"; sourceTree = "<group>"; };
 		087006C2908B410EA8C005F53A7417ED /* Pods-AsyncKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AsyncKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		0D8876E44CC7A388E3F433B2F6815B3C /* Pods-AsyncKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-AsyncKit_Tests.modulemap"; sourceTree = "<group>"; };
+		0D8876E44CC7A388E3F433B2F6815B3C /* Pods-AsyncKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-AsyncKit_Tests.modulemap"; sourceTree = "<group>"; };
 		103A66BF673FE7C06FB8BFFF9F65D1FF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		19B8CED360F6D5C870DB02D204775192 /* Pods-AsyncKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AsyncKit_Tests-umbrella.h"; sourceTree = "<group>"; };
-		2B1F740A099D0E1E24798226CCA559D3 /* AsyncKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = AsyncKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2B1F740A099D0E1E24798226CCA559D3 /* AsyncKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = AsyncKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		323AC8A3A5BCFD79BEBE35ED3FB86896 /* AsyncKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AsyncKit-umbrella.h"; sourceTree = "<group>"; };
-		3880DCB1F71C917D9FBC7286FF5DE57A /* AsyncKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AsyncKit.framework; path = AsyncKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3880DCB1F71C917D9FBC7286FF5DE57A /* AsyncKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AsyncKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C9089A8A4B6231471311CFDEBE8B4DA /* Promise.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Promise.swift; path = AsyncKit/Promise.swift; sourceTree = "<group>"; };
-		44468F9EB5752C24720BF39C2F08B776 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		44468F9EB5752C24720BF39C2F08B776 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		529E54DAAF03A108F1DE93CB8A30721E /* Pods-AsyncKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AsyncKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		55BDC3F8E779D924153289A36D0C4001 /* Observable+Mapping.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Observable+Mapping.swift"; path = "AsyncKit/Observable+Mapping.swift"; sourceTree = "<group>"; };
 		5607DE4951C6ACF2F932672C4F727294 /* Pods-AsyncKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AsyncKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		623BD739BAAF647AD0AE725FDBFC0728 /* Pods-AsyncKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AsyncKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		63725C3F744407790E8E4878C7697AAC /* Pods_AsyncKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AsyncKit_Tests.framework; path = "Pods-AsyncKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		63725C3F744407790E8E4878C7697AAC /* Pods_AsyncKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AsyncKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		63E5DC78BFDB4C58C98113A419721E74 /* Pods-AsyncKit_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AsyncKit_Tests-resources.sh"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		676954E21C593297C01EC5834023359F /* AssociatedProperty.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AssociatedProperty.swift; path = AsyncKit/AssociatedProperty.swift; sourceTree = "<group>"; };
 		6912A3FCDDA3C6AEEC521DDEEDA194C3 /* Observable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Observable.swift; path = AsyncKit/Observable.swift; sourceTree = "<group>"; };
-		7363F72BF454C8362403A0899C9C9C22 /* AsyncKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = AsyncKit.modulemap; sourceTree = "<group>"; };
+		7363F72BF454C8362403A0899C9C9C22 /* AsyncKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AsyncKit.modulemap; sourceTree = "<group>"; };
 		73AE4B97B961294AB89691D6CB95272E /* AsyncKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AsyncKit.xcconfig; sourceTree = "<group>"; };
 		7A06E5980E9932B43C930560CFAA64DA /* Promise+Map.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Promise+Map.swift"; path = "AsyncKit/Promise+Map.swift"; sourceTree = "<group>"; };
 		8AE0D10ACFD33EB006B76BC3EBC8A602 /* Optional+TryUnwrap.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Optional+TryUnwrap.swift"; path = "AsyncKit/Optional+TryUnwrap.swift"; sourceTree = "<group>"; };
 		8C0260D1D9A48DC8190EA853FA9730A1 /* Observable+Zip.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Observable+Zip.swift"; path = "AsyncKit/Observable+Zip.swift"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		958C350F7EF42DD11C6C8534F12F957C /* DelegateEmitter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DelegateEmitter.swift; path = AsyncKit/DelegateEmitter.swift; sourceTree = "<group>"; };
 		A1BBF1DD7C1A4A3FCF207F81AE77A29A /* Errors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Errors.swift; path = AsyncKit/Errors.swift; sourceTree = "<group>"; };
 		AAFF6C9BA89687563B16C67054BCC811 /* ObservableValue.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ObservableValue.swift; path = AsyncKit/ObservableValue.swift; sourceTree = "<group>"; };
 		AF1A3B2D0D2605344DE2DF4014C93AD7 /* Observable+NSObject.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Observable+NSObject.swift"; path = "AsyncKit/Observable+NSObject.swift"; sourceTree = "<group>"; };
-		CA4B282666F28E4B48CC0F659EF7AF09 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		CA4B282666F28E4B48CC0F659EF7AF09 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CE133EF884A6FA2FA16C04D96A156594 /* Promise+Extras.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Promise+Extras.swift"; path = "AsyncKit/Promise+Extras.swift"; sourceTree = "<group>"; };
 		DFA4038B200BDA949508A7C1C87CD47B /* Promise+Legacy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Promise+Legacy.swift"; path = "AsyncKit/Promise+Legacy.swift"; sourceTree = "<group>"; };
 		E7BC7342A8327F75930B62D24354A212 /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = AsyncKit/Result.swift; sourceTree = "<group>"; };
@@ -287,7 +287,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0930;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -366,6 +366,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -373,6 +374,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -453,6 +455,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -460,6 +463,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
