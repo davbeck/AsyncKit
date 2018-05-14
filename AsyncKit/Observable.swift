@@ -55,13 +55,13 @@ public class Observer<O: Observable>: Equatable, AnyObserver {
 	fileprivate let callback: (O.Payload) -> Void
 	fileprivate let emitter: O
 	
-	init(_ emitter: O, queue: ExecutionContext?, callback: @escaping (O.Payload) -> Void) {
+	public init(_ emitter: O, queue: ExecutionContext?, callback: @escaping (O.Payload) -> Void) {
 		self.emitter = emitter
 		self.queue = queue ?? CurrentContext()
 		self.callback = callback
 	}
 	
-	func emit(_ payload: O.Payload) {
+	public func emit(_ payload: O.Payload) {
 		queue.execute {
 			self.callback(payload)
 		}
