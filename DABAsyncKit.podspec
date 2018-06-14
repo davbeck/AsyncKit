@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DABAsyncKit'
 	s.module_name      = 'AsyncKit'
-  s.version          = '1.1.1'
+  s.version          = '1.2.0'
   s.summary          = 'Tools to make async code more pleasent in Swift.'
 
   s.homepage         = 'https://github.com/davbeck/AsyncKit'
