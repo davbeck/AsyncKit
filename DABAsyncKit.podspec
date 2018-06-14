@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DABAsyncKit'
 	s.module_name      = 'AsyncKit'
-  s.version          = '1.1.0'
+  s.version          = '1.1.1'
   s.summary          = 'Tools to make async code more pleasent in Swift.'
 
   s.homepage         = 'https://github.com/davbeck/AsyncKit'
@@ -21,6 +21,7 @@ Pod::Spec.new do |s|
   s.swift_version = '4.1'
   s.ios.deployment_target = '11.0'
   s.osx.deployment_target = '10.13'
+  s.static_framework = true
 
   s.source_files = 'AsyncKit/**/*'
 end
